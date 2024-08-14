@@ -24,6 +24,7 @@ Ensure you have the following Python packages installed:
 - `moviepy`
 - `pillow - 8.4.0`
 - `ffmpeg`
+- `imagemagick`
 
 You can install it using pip:
 
