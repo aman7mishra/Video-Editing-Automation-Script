@@ -72,7 +72,7 @@ The `config.json` file contains all the necessary configurations for the script 
   - `file`: Path to the media file.
   - `start` & `end`: Clip start and end times.
   - `text`: Caption text.
-  - `voice`: Voice selection for text-to-speech. 
+  - `voice`: Voice selection for text-to-speech. Look up the `available_voices.txt` for available voices.
 
 ## Docker Instructions
 
