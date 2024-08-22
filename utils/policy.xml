@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policymap>
+  <!--
+  Commenting out the line that blocks access to files with '@' in the path.
+  -->
+  <!-- <policy domain="path" rights="none" pattern="@*" /> -->
+  <!-- Other policies remain unchanged -->
+</policymap>

@@ -1,0 +1,38 @@
+{
+    "mediaPath": "/usr/src/app/media_files",
+    "output_dir": "rendered",
+    "temp_dir": "temp_videos",
+    "selected_quality": "medium",
+    "orientation": "Portrait",
+    "clips_info": [
+      {
+        "file": "bernie.jpg",
+        "start": "00:00:00.000",
+        "end": "00:00:5.500",
+        "text": "Hello, and welcome back to our podcast! I'm your host, Bernie.",
+        "voice": "english-north"
+      },
+      {
+        "file": "jessica_zoom_out.mp4",
+        "start": "00:00:5.500",
+        "end": "00:00:9.500",
+        "text": "And I'm Jessica, here to crack the tough codes!",
+        "voice": "english_rp"
+      },
+      {
+        "file": "bernie_zoom_out.mp4",
+        "start": "00:00:9.500",
+        "end": "00:00:14.377",
+        "text": "Don't forget about me, Frank, with the latest gadget news.",
+        "voice": "english_wmids"
+      },
+      {
+        "file": "all_slide_right.mp4",
+        "start": "00:00:14.377",
+        "end": "00:00:19.517",
+        "text": "Together, we bring you the latest and greatest in tech!",
+        "voice":"english-us"
+      }
+    ]
+  }
+  
